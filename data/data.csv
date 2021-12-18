@@ -1,0 +1,464 @@
+District,index,category,type,census_code,population
+Dhemaji,1,Very High,Flood,308,686133
+Pashchim Champaran,0.91,Very High,Flood,203,3935042
+Khagaria,0.89,Very High,Flood,223,1666886
+Araria,0.87,Very High,Flood,209,2811569
+Lakhimpur,0.87,Very High,Flood,307,1042137
+Dhubri,0.81,Very High,Flood,301,1949258
+Dibrugarh,0.76,Very High,Flood,310,1326335
+Purnia,0.76,Very High,Flood,211,3264619
+Golaghat,0.75,Very High,Flood,313,1066888
+Karbi Anglong,0.72,Very High,Flood,314,956313
+Yamunanagar,0.72,Very High,Flood,71,1214205
+Sonitpur,0.71,Very High,Flood,306,1924110
+Kupwara,0.7,Very High,Flood,1,870354
+Bongaigaon,0.69,Very High,Flood,319,738804
+Bara Banki,0.68,Very High,Flood,176,3260699
+Jorhat,0.67,Very High,Flood,312,1092256
+Bhopal,0.66,Very High,Flood,444,2371061
+East Siang,0.63,Very High,Flood,251,99214
+Karimganj,0.61,Very High,Flood,317,1228686
+Chittoor,0.58,High,Flood,554,4174064
+Kishanganj,0.55,High,Flood,210,1690400
+Tinsukia,0.54,High,Flood,309,1327929
+Churu,0.53,High,Flood,102,2039547
+Gopalganj,0.53,High,Flood,217,2562012
+Rajouri,0.52,High,Flood,6,642415
+West Tripura,0.52,High,Flood,289,1725739
+Kamrup,0.51,High,Flood,321,1517542
+Chitradurga,0.5,High,Flood,566,1659456
+Bishnupur,0.48,High,Flood,275,237399
+Darjiling,0.48,High,Flood,327,1846823
+Kinnaur,0.47,High,Flood,34,84121
+Gorakhpur,0.44,High,Flood,188,4440895
+Hugli,0.44,High,Flood,338,5519145
+Kangra,0.44,High,Flood,24,1510075
+Mandi,0.42,High,Flood,27,999777
+Kiphire,0.41,High,Flood,269,74004
+Upper Siang,0.4,Moderate,Flood,252,35320
+Jalpaiguri,0.38,Moderate,Flood,328,3872846
+North,0.37,Moderate,Flood,91,887978
+South,0.37,Moderate,Flood,98,2731929
+Tikamgarh,0.37,Moderate,Flood,424,1445166
+Doda,0.36,Moderate,Flood,16,409936
+Thoubal,0.36,Moderate,Flood,276,422168
+Nadia,0.35,Moderate,Flood,336,5167600
+Puducherry,0.35,Moderate,Flood,635,950289
+Maldah,0.33,Moderate,Flood,332,3988845
+Dimapur,0.32,Moderate,Flood,265,378811
+Imphal West,0.32,Moderate,Flood,277,517992
+Lahul & Spiti,0.28,Moderate,Flood,25,31564
+Anand,0.27,Moderate,Flood,482,2092745
+Rayagada,0.26,Moderate,Flood,396,967911
+Bahraich,0.25,Moderate,Flood,180,3487731
+Chirang,0.24,Moderate,Flood,320,482162
+Hailakandi,0.24,Moderate,Flood,318,659296
+Barddhaman,0.23,Moderate,Flood,335,7717563
+North Tripura,0.23,Moderate,Flood,292,693947
+Kulgam,0.22,Moderate,Flood,15,424483
+Kheri,0.2,Moderate,Flood,153,4021243
+Anantnag,0.19,Low,Flood,14,1078692
+Jajapur,0.19,Low,Flood,382,1827192
+Karnal,0.19,Low,Flood,74,1505324
+Shimla,0.19,Low,Flood,33,814010
+Chandel,0.17,Low,Flood,280,144182
+Sitapur,0.16,Low,Flood,154,4483992
+Bandipore,0.12,Low,Flood,9,392232
+Aizawl,0,Very Low,Flood,283,400309
+Ambala,0,Very Low,Flood,70,1128350
+Anugul,0,Very Low,Flood,384,1273821
+Birbhum,0,Very Low,Flood,334,3502404
+Chandauli,0,Very Low,Flood,196,1952756
+Chandigarh,0,Very Low,Flood,55,1055450
+Chikmagalur,0,Very Low,Flood,570,1137961
+Dhalai,0,Very Low,Flood,291,378230
+Hardwar,0,Very Low,Flood,68,1890422
+Kancheepuram,0,Very Low,Flood,604,3998252
+Kandhamal,0,Very Low,Flood,390,733110
+Katni,0,Very Low,Flood,450,1292042
+Kokrajhar,0,Very Low,Flood,300,887142
+Leh (ladakh),0,Very Low,Flood,3,133487
+Lohit,0,Very Low,Flood,259,145726
+Malkangiri,0,Very Low,Flood,399,613192
+Mandla,0,Very Low,Flood,454,1054905
+Puruliya,0,Very Low,Flood,340,2930115
+Sabar Kantha,0,Very Low,Flood,472,2428589
+Shrawasti,0,Very Low,Flood,181,1117361
+Sirsa,0,Very Low,Flood,79,1295189
+South 24 Parganas,0,Very Low,Flood,343,8161961
+South Garo Hills,0,Very Low,Flood,295,142334
+South Goa,0,Very Low,Flood,586,640537
+Supaul,0,Very Low,Flood,208,2229076
+The Dangs,0,Very Low,Flood,489,228291
+Uttarkashi,0,Very Low,Flood,56,330086
+Agra,0.64,Very High,Drought,146,4418797
+Ahmadnagar,0.95,Very High,Drought,522,4543159
+Ajmer,0.72,Very High,Drought,119,2583052
+Akola,0.59,High,Drought,501,1813906
+Alwar,0,Very Low,Drought,104,3674179
+Amreli,0.47,High,Drought,480,1514190
+Anuppur,0,Very Low,Drought,461,749237
+Ariyalur,0.42,High,Drought,616,754894
+Ashoknagar,0.31,Moderate,Drought,459,845071
+Bangalore,0.57,High,Drought,572,9621551
+Bangalore Rural,0.63,Very High,Drought,583,990923
+Banswara,0.84,Very High,Drought,125,1797485
+Baran,0,Very Low,Drought,128,1222755
+Bareilly,0,Very Low,Drought,150,4448359
+Barmer,0.9,Very High,Drought,115,2603751
+Basti,0,Very Low,Drought,185,2464464
+Bellary,0.66,Very High,Drought,565,2452595
+Bhandara,0,Very Low,Drought,506,1200334
+Bhilwara,0.67,Very High,Drought,122,2408523
+Bhind,0.26,Moderate,Drought,420,1703005
+Bhiwani,0,Very Low,Drought,81,1634445
+Bid,0.62,Very High,Drought,523,2585049
+Bidar,0.74,Very High,Drought,558,1703300
+Bijnor,1,Very High,Drought,134,3682713
+Bikaner,0,Very Low,Drought,101,2363937
+Bokaro,0.39,Moderate,Drought,355,2062330
+Bulandshahr,0.49,High,Drought,142,3499171
+Buldana,0.81,Very High,Drought,500,2586258
+Bundi,0,Very Low,Drought,121,1110906
+Burhanpur,0,Very Low,Drought,467,757847
+Chamrajnagar,0.73,Very High,Drought,578,1020791
+Chandrapur,0.31,Moderate,Drought,509,2204307
+Chikkaballapura,0.53,High,Drought,582,1255104
+Chitrakoot,0.3,Moderate,Drought,171,991730
+Chittaurgarh,0.52,High,Drought,126,1544338
+Datia,0,Very Low,Drought,422,786754
+Dausa,0,Very Low,Drought,109,1634409
+Davanagere,0.7,Very High,Drought,567,1945497
+Deoghar,0,Very Low,Drought,350,1492073
+Dewas,0.27,Moderate,Drought,437,1563715
+Dhamtari,0,Very Low,Drought,412,799781
+Dhanbad,0,Very Low,Drought,354,2684487
+Dhar,0,Very Low,Drought,438,2185793
+Dharmapuri,0,Very Low,Drought,630,1506843
+Dhule,0.48,High,Drought,498,2050862
+Dindigul,0.25,Moderate,Drought,612,2159775
+Dindori,0,Very Low,Drought,453,704524
+Dumka,0.51,High,Drought,362,1321442
+Dungarpur,0,Very Low,Drought,124,1388552
+Durg,0,Very Low,Drought,409,3343872
+East Nimar,0.27,Moderate,Drought,466,1310061
+Erode,0.39,Moderate,Drought,610,2251744
+Etah,0.73,Very High,Drought,201,1774480
+Etawah,0.4,Moderate,Drought,161,1581810
+Farrukhabad,0.36,Moderate,Drought,159,1885204
+Fatehpur,0.31,Moderate,Drought,172,2632733
+Firozabad,0,Very Low,Drought,147,2498156
+Gandhinagar,0.48,High,Drought,473,1391753
+Gadchiroli,0.61,Very High,Drought,508,1072942
+Garhwa,0,Very Low,Drought,346,1322784
+Gautam Buddha Nagar,0,Very Low,Drought,141,1648115
+Gaya,0.4,Moderate,Drought,236,4391418
+Giridih,0.43,High,Drought,349,2445474
+Godda,0,Very Low,Drought,351,1313551
+Gondiya,0.31,Moderate,Drought,507,1322507
+Gulbarga,0.73,Very High,Drought,579,2566326
+Gumla,0,Very Low,Drought,366,1025213
+Guna,0,Very Low,Drought,458,1241519
+Gurgaon,0,Very Low,Drought,86,1514432
+Gwalior,0,Very Low,Drought,421,2032036
+Hanumangarh,0,Very Low,Drought,100,1774692
+Hardoi,0.71,Very High,Drought,155,4092845
+Hassan,0.53,High,Drought,574,1776421
+Haveri,0.49,High,Drought,564,1597668
+Hazaribagh,0,Very Low,Drought,360,1734495
+Hingoli,0.67,Very High,Drought,512,1177345
+Hisar,0,Very Low,Drought,80,1743931
+Indore,0,Very Low,Drought,439,3276697
+Jaipur,0.63,Very High,Drought,110,6626178
+Jaisalmer,0.9,Very High,Drought,114,669919
+Jalaun,0.79,Very High,Drought,165,1689974
+Jalna,0.38,Moderate,Drought,514,1959046
+Jamtara,0,Very Low,Drought,363,791042
+Jamui,0,Very Low,Drought,238,1760405
+Janjgir - Champa,0,Very Low,Drought,405,1619707
+Jaunpur,0.63,Very High,Drought,194,4494204
+Jehanabad,0,Very Low,Drought,239,1125313
+Jhabua,0,Very Low,Drought,464,1025048
+Jhalawar,0,Very Low,Drought,129,1411129
+Jhansi,0.68,Very High,Drought,166,1998603
+Jhunjhunun,0.64,Very High,Drought,103,2137045
+Jodhpur,0.7,Very High,Drought,113,3687165
+Jyotiba Phule Nagar,0,Very Low,Drought,137,1840221
+Kabeerdham,0,Very Low,Drought,407,822526
+Kannauj,0,Very Low,Drought,160,1656616
+Kanpur Nagar,0.35,Moderate,Drought,164,4581268
+Karur,0.39,Moderate,Drought,613,1064493
+Kaushambi,0.37,Moderate,Drought,174,1599596
+Kodarma,0,Very Low,Drought,348,716259
+Kolar,0.71,Very High,Drought,581,1536401
+Kolhapur,0,Very Low,Drought,530,3876001
+Korba,0,Very Low,Drought,404,1206640
+Koriya,0,Very Low,Drought,400,658917
+Kota,0,Very Low,Drought,127,1951014
+Krishnagiri,0.43,High,Drought,631,1879809
+Kurukshetra,0.23,Moderate,Drought,72,964655
+Lalitpur,0,Very Low,Drought,167,1221592
+Latehar,0,Very Low,Drought,359,726978
+Latur,0.62,Very High,Drought,524,2454196
+Lohardaga,0,Very Low,Drought,356,461790
+Lucknow,0,Very Low,Drought,157,4589838
+Maharajganj,0,Very Low,Drought,187,2684703
+Mahasamund,0,Very Low,Drought,411,1032754
+Mahendragarh,0,Very Low,Drought,84,922088
+Mahoba,0.46,High,Drought,169,875958
+Mainpuri,0.48,High,Drought,148,1868529
+Mandya,0.47,High,Drought,573,1805769
+Mathura,0.4,Moderate,Drought,145,2547184
+Mau,0.29,Moderate,Drought,192,2205968
+Meerut,0,Very Low,Drought,138,3443689
+Mirzapur,0.56,High,Drought,199,2496970
+Morena,0.3,Moderate,Drought,419,1965970
+Mysore,0.66,Very High,Drought,577,3001127
+Nagpur,0.5,High,Drought,505,4653570
+Namakkal,0.33,Moderate,Drought,609,1726601
+Nanded,0.73,Very High,Drought,511,3361292
+Nandurbar,0.77,Very High,Drought,497,1648295
+Narayanpur,0,Very Low,Drought,415,139820
+Nawada,0,Very Low,Drought,237,2219146
+Nuapada,0,Very Low,Drought,394,610382
+Osmanabad,0.66,Very High,Drought,525,1657576
+Palakkad,0.31,Moderate,Drought,593,2809934
+Palamu,0,Very Low,Drought,358,1939869
+Pali,0.77,Very High,Drought,118,2037573
+Panna,0.76,Very High,Drought,426,1016520
+Parbhani,0.83,Very High,Drought,513,1836086
+Pashchimi Singhbhum,0,Very Low,Drought,368,1502338
+Perambalur,0.5,High,Drought,615,565223
+Pratapgarh,0.4,High,Drought,131,867848
+Rae Bareli,0,Very Low,Drought,158,3405559
+Raigarh,0.32,Moderate,Drought,403,1493984
+Raipur,0,Very Low,Drought,410,4063872
+Raisen,0,Very Low,Drought,446,1331597
+Rajnandgaon,0,Very Low,Drought,408,1537133
+Rajsamand,0.95,Very High,Drought,123,1156597
+Ramanagara,0.45,High,Drought,584,1082636
+Rampur,0.61,Very High,Drought,136,2335819
+Ranchi,0,Very Low,Drought,364,2914253
+Ratlam,0.34,Moderate,Drought,434,1455069
+Saharanpur,0.35,Moderate,Drought,132,3466382
+Salem,0,Very Low,Drought,608,3482056
+Sangli,0.64,Very High,Drought,531,2822143
+Sant Kabir Nagar,0,Very Low,Drought,186,1715183
+Saraikela-kharsawan,0,Very Low,Drought,369,1065056
+Satara,0.56,High,Drought,527,3003741
+Sawai Madhopur,0.34,Moderate,Drought,108,1335551
+Sehore,0.27,Moderate,Drought,445,1311332
+Shahdol,0.23,Moderate,Drought,460,1066063
+Sheopur,0.32,Moderate,Drought,418,687861
+Shivpuri,0.27,Moderate,Drought,423,1726050
+Siddharth Nagar,0,Very Low,Drought,184,2559297
+Sidhi,0.54,High,Drought,462,1127033
+Sikar,0.66,Very High,Drought,111,2677333
+Simdega,0,Very Low,Drought,367,599578
+Sirohi,0,Very Low,Drought,117,1036346
+Solapur,0.43,High,Drought,526,4317756
+Sonbhadra,0,Very Low,Drought,200,1862559
+Thiruvarur,0.56,High,Drought,619,1264277
+Tiruppur,0.56,High,Drought,633,2479052
+Tiruvannamalai,0.3,Moderate,Drought,606,2464875
+Tonk,0,Very Low,Drought,120,1421326
+Tumkur,0.64,Very High,Drought,571,2678980
+Udaipur,0.7,Very High,Drought,130,3068420
+Udupi,0,Very Low,Drought,569,1177361
+Ujjain,0,Very Low,Drought,435,1986864
+Umaria,0.37,Moderate,Drought,431,644758
+Unnao,0.45,High,Drought,156,3108367
+Varanasi,0,Very Low,Drought,197,3676841
+Vellore,0.34,Moderate,Drought,605,3936331
+Vidisha,0.33,Moderate,Drought,443,1458875
+Virudhunagar,0.36,Moderate,Drought,625,1942288
+Washim,0.28,Moderate,Drought,502,1197160
+Wayanad,0,Very Low,Drought,590,817420
+Yadgir,0.59,High,Drought,580,1174271
+Yavatmal,0.27,Moderate,Drought,510,2772348
+North & Middle Andaman,0,Very Low,Cyclone,639,105597
+South Andaman,0,Very Low,Cyclone,640,238142
+Yanam,0,Very Low,Cyclone,634,55626
+Adilabad,0.15,Low,Flood Drought,532,2741239
+Ahmadabad,0.53,High,Flood Drought,474,7214225
+Alappuzha,0.16,Low,Flood Drought,598,2127789
+Aligarh,0.11,Low,Flood Drought,143,3673889
+Allahabad,0.02,Low,Flood Drought,175,5954391
+Ambedkar Nagar,0.03,Low,Flood Drought,178,2397888
+Amravati,0.33,Moderate,Flood Drought,503,2888445
+Anantapur,0.65,Very High,Flood Drought,553,4081148
+Auraiya,0.48,High,Flood Drought,162,1379545
+Aurangabad,0.46,High,Flood Drought,235,2540073
+Azamgarh,0.24,Moderate,Flood Drought,191,4613913
+Bagalkot,0.5,High,Flood Drought,556,1889752
+Balaghat,0,Very Low,Flood Drought,457,1701698
+Balangir,0,Very Low,Flood Drought,393,1648997
+Ballia,0.35,Moderate,Flood Drought,193,3239774
+Balrampur,0.12,Low,Flood Drought,182,2148665
+Banas Kantha,0.31,Moderate,Flood Drought,469,3120506
+Banda,0.24,Moderate,Flood Drought,170,1799410
+Bankura,0.02,Low,Flood Drought,339,3596674
+Barpeta,0.66,Very High,Flood Drought,303,1693622
+Belgaum,0.33,Moderate,Flood Drought,555,4779661
+Bharuch,0.09,Very Low,Flood Drought,488,1551019
+Bijapur,0.72,Very High,Flood Drought,417,255230
+Bilaspur,0.09,Low,Flood Drought,30,381956
+Budaun,0.03,Low,Flood Drought,149,3681896
+Cachar,0.54,High,Flood Drought,316,1736617
+Chatra,0,Very Low,Flood Drought,347,1042886
+Chhatarpur,0.17,Low,Flood Drought,425,1762375
+Coimbatore,0.11,Low,Flood Drought,632,3458045
+Cuddalore,0.49,High,Flood Drought,617,2605914
+Damoh,0.15,Low,Flood Drought,428,1264219
+Darrang,0.81,Very High,Flood Drought,325,928500
+Deoria,0.24,Moderate,Flood Drought,190,3100946
+Dharwad,0.45,High,Flood Drought,562,1847023
+Ernakulam,0.41,High,Flood Drought,595,3282388
+Faizabad,0.12,Low,Flood Drought,177,2470996
+Gadag,0.42,High,Flood Drought,561,1064570
+Ghaziabad,0.38,High,Flood Drought,140,4681645
+Ghazipur,0.03,Low,Flood Drought,195,3620268
+Goalpara,0.67,Very High,Flood Drought,302,1008183
+Hamirpur,0.24,Moderate,Flood Drought,28,454768
+Idukki,0.27,Moderate,Flood Drought,596,1108974
+Jabalpur,0.02,Low,Flood Drought,451,2463289
+Jalgaon,0.53,High,Flood Drought,499,4229917
+Kalahandi,0.04,Very Low,Flood Drought,395,1576869
+Kanpur Dehat,0.2,Moderate,Flood Drought,163,1796184
+Karimnagar,0.39,High,Flood Drought,534,3776269
+Kasaragod,0.2,Moderate,Flood Drought,588,1307375
+Katihar,0.39,High,Flood Drought,212,3071029
+Khammam,1,Very High,Flood Drought,541,2797370
+Kheda,0.11,Low,Flood Drought,483,2299885
+Kodagu,0.01,Low,Flood Drought,576,554519
+Kollam,0.38,Moderate,Flood Drought,600,2635375
+Koppal,0.53,High,Flood Drought,560,1389920
+Kottayam,0.1,Low,Flood Drought,597,1974551
+Kullu,0.5,High,Flood Drought,26,437903
+Kurnool,0.36,Moderate,Flood Drought,552,4053463
+Kushinagar,0.57,Very High,Flood Drought,189,3564544
+Lakhisarai,0.02,Low,Flood Drought,227,1000912
+Madhepura,0.92,Very High,Flood Drought,213,2001762
+Madhubani,0.56,High,Flood Drought,207,4487379
+Madurai,0.23,Moderate,Flood Drought,623,3038252
+Mahbubnagar,0.7,Very High,Flood Drought,538,4053028
+Mahesana,0.33,Moderate,Flood Drought,471,2035064
+Morigaon,0.38,High,Flood Drought,304,957423
+Medak,0.27,Moderate,Flood Drought,535,3033288
+Munger,0.39,High,Flood Drought,226,1367765
+Muzaffarnagar,0.22,Moderate,Flood Drought,133,4143512
+Muzaffarpur,0.57,Very High,Flood Drought,216,4801062
+Nagaur,0.53,High,Flood Drought,112,3307743
+Nainital,0.44,High,Flood Drought,66,954605
+Nalanda,0.23,Moderate,Flood Drought,229,2877653
+Nalbari,0.33,Moderate,Flood Drought,323,771639
+Nalgonda,0.49,High,Flood Drought,539,3488809
+Nashik,0.36,Moderate,Flood Drought,516,6107187
+Nizamabad,0.04,Low,Flood Drought,533,2551335
+Patan,0.17,Low,Flood Drought,470,1343734
+Pathanamthitta,0.57,Very High,Flood Drought,599,1197412
+Patna,0.63,Very High,Flood Drought,230,5838465
+Pilibhit,0.6,Very High,Flood Drought,151,2031007
+Pithoragarh,0.13,Low,Flood Drought,62,483439
+Pune,0.37,Moderate,Flood Drought,521,9429408
+Raichur,0.4,High,Flood Drought,559,1928812
+Rangareddy,0.36,Moderate,Flood Drought,537,5296741
+Rewa,0.17,Low,Flood Drought,430,2365106
+Rohtak,0.02,Low,Flood Drought,82,1061204
+Sagar,0.18,Low,Flood Drought,427,2378458
+Samastipur,0.8,Very High,Flood Drought,221,4261566
+Saran,0.39,High,Flood Drought,219,3951862
+Satna,0.09,Low,Flood Drought,429,2228935
+Shahjahanpur,0.03,Low,Flood Drought,152,3006538
+Shajapur,0.08,Low,Flood Drought,436,1512681
+Shimoga,0.16,Low,Flood Drought,568,1752753
+Sitamarhi,0.95,Very High,Flood Drought,206,3423574
+Sivasagar,0.52,High,Flood Drought,311,1151050
+Siwan,0.15,Low,Flood Drought,218,3330464
+Srinagar,0.39,High,Flood Drought,10,1236829
+Sultanpur,0,Very Low,Flood Drought,179,3797117
+Surendranagar,0.55,High,Flood Drought,475,1756268
+The Nilgiris,0.03,Low,Flood Drought,611,735394
+Thiruvananthapuram,0.3,Moderate,Flood Drought,601,3301427
+Thrissur,0.25,Moderate,Flood Drought,594,3121200
+Tirunelveli,0.75,Very High,Flood Drought,628,3077233
+Toothukkudi,0.54,High,Flood Drought,627,1750176
+Vadodara,0.19,Low,Flood Drought,486,4165626
+Vaishali,0.52,High,Flood Drought,220,3495021
+Viluppuram,0.34,Moderate,Flood Drought,607,3458873
+Warangal,0.24,Moderate,Flood Drought,540,3512576
+Wardha,0.17,Low,Flood Drought,504,1300774
+West Siang,0.6,Very High,Flood Drought,250,112274
+Banka,0.9,Very High,Flood Cyclone,225,2034763
+Chennai,1,Very High,Flood Cyclone,603,4646732
+Imphal East,0.79,Very High,Flood Cyclone,278,456113
+Jagatsinghapur,0.73,Very High,Flood Cyclone,380,1136971
+Jammu,0.12,Low,Flood Cyclone,21,1529958
+Kendrapara,0.53,High,Flood Cyclone,379,1440361
+Koraput,0.49,High,Flood Cyclone,398,1379647
+Kolkata,0.05,Low,Flood Cyclone,342,4496694
+Mumbai,0.72,Very High,Flood Cyclone,519,3085411
+Nagaon,0.9,Very High,Flood Cyclone,305,2823768
+Navsari,0,Very Low,Flood Cyclone,490,1329672
+New Delhi,0.29,Moderate,Flood Cyclone,94,142004
+North 24 Parganas,0.43,High,Flood Cyclone,337,10009781
+North Goa,0.2,Moderate,Flood Cyclone,585,818008
+Pashchim Medinipur,0.63,Very High,Flood Cyclone,344,5913457
+Purba Champaran,0.11,Low,Flood Cyclone,204,5099371
+Ratnagiri,0.23,Moderate,Flood Cyclone,528,1615069
+Surat,0.11,Low,Flood Cyclone,492,6081322
+Thane,0.1,Low,Flood Cyclone,517,11060148
+Arwal,0,Very Low,Drought Cyclone,240,700843
+Dhenkanal,0,Very Low,Drought Cyclone,383,1192811
+Jalor,0.858031095,Very High,Drought Cyclone,116,1828730
+Junagadh,0.813045573,Very High,Drought Cyclone,479,2743082
+Ramgarh,0,Very Low,Drought Cyclone,361,949443
+Rohtas,0.600692014,Very High,Drought Cyclone,234,2959918
+Sambalpur,0,Very Low,Drought Cyclone,372,1041099
+Sivaganga,0.377375674,Moderate,Drought Cyclone,622,1339101
+Sundargarh,0.303075344,Moderate,Drought Cyclone,374,2093437
+Theni,0.342527376,Moderate,Drought Cyclone,624,1245899
+Tiruchirappalli,0.417172907,High,Drought Cyclone,614,2722290
+Vizianagaram,1,Very High,Drought Cyclone,543,2344474
+Baleshwar,0.561040114,High,FCD,377,2320529
+Begusarai,0.29188625,Moderate,FCD,222,2970541
+Bhadrak,0.520618531,High,FCD,378,1506337
+Bhagalpur,0.463247441,High,FCD,224,3037766
+Bhavnagar,0.11410516,Low,FCD,481,2880365
+Bhojpur,0.167618293,Low,FCD,231,2728407
+Buxar,0.029123183,Low,FCD,232,1706352
+Cuttack,0.469838241,High,FCD,381,2624470
+Dakshina Kannada,0.232255113,Moderate,FCD,575,2089649
+Darbhanga,1,Very High,FCD,215,3937385
+East Godavari,0.4000524,High,FCD,545,5154296
+Gajapati,0.996738625,Very High,FCD,389,577817
+Ganjam,0.745657475,Very High,FCD,388,3529031
+Guntur,0.640572568,Very High,FCD,548,4887813
+Hyderabad,0.276329915,Moderate,FCD,536,3943323
+Jamnagar,0.357757521,High,FCD,477,2160119
+Kachchh,0.350079654,High,FCD,468,2092371
+Kanyakumari,0.020045617,Low,FCD,629,1870374
+Kannur,0.084346159,Low,FCD,589,2523003
+Khordha,0.787105983,Very High,FCD,386,2251673
+Kozhikode,0.127193049,Low,FCD,591,3086293
+Krishna,0.670582191,Very High,FCD,547,4517398
+Malappuram,0,Very Low,FCD,592,4112920
+Nagappattinam,0.565534987,High,FCD,618,1616450
+Nayagarh,0.808772341,Very High,FCD,385,962789
+Porbandar,0.180845731,Low,FCD,478,585449
+Prakasam,0.320184909,Moderate,FCD,549,3397448
+Pudukkottai,0.012339913,Low,FCD,621,1618345
+Puri,0.669652442,Very High,FCD,387,1698730
+Rajkot,0.454672494,High,FCD,476,3804558
+Ramanathapuram,0.072207227,Low,FCD,626,1353445
+Saharsa,0.53287408,High,FCD,214,1900661
+Sheikhpura,0,Very Low,FCD,228,636342
+Sheohar,0.602459627,Very High,FCD,205,656246
+Sri Potti Sriramulu Nellore,0.572464094,High,FCD,550,2963557
+Srikakulam,0.491271085,High,FCD,542,2703114
+Thanjavur,0.536614604,High,FCD,620,2405890
+Thiruvallur,0.172592375,Low,FCD,602,3728104
+Uttara Kannada,0.121688246,Low,FCD,563,1437169
+Visakhapatnam,0.362676059,Moderate,FCD,544,4290589
+West Godavari,0.734683863,Very High,FCD,546,3936966
+Y.s.r.,0.414629491,High,FCD,551,2882469
