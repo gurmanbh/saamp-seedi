@@ -20,13 +20,19 @@ h1{
 .options{
     margin: 2rem auto;
     text-align: center;
+}
 
+.text{
+    margin: 2rem auto;
+    max-width: 450px;
+    width: 100%;
 }
 
 .opt{
     border: 1px solid black;
     margin: 10px;
-    width: 250px;
+    max-width: 250px;
+    width: 100%;
     padding: 5px;
     margin: 0 auto;
     cursor: pointer;
@@ -35,7 +41,9 @@ h1{
 .timer-main.hide{
     display: none
 }
-
+.timer{
+    font-weight: bold;
+}
 .opt:hover{
     background: black;
     color: white;
